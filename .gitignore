@@ -1,0 +1,28 @@
+# Scrapy auto-generated files
+.scrapy
+
+# Scrapy logs
+logs/
+
+# Scrapy egg-info
+*.egg-info/
+
+# Scrapy cache
+.crawlera/
+
+# Scrapy output files
+output/
+
+# Virtual environment
+venv/
+
+# IDE files
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Miscellaneous
+.DS_Store

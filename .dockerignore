@@ -1,0 +1,16 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore Scrapy egg-info directory
+.scrapy/
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Ignore virtual environment files
+.venv/
+
+# Ignore development and testing files
+tests/
