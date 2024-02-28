@@ -1,3 +1,6 @@
+# env file
+.env
+
 # Scrapy auto-generated files
 .scrapy
 
